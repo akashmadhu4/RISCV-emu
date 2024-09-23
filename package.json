@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "start": "ts-node src/index.ts"
+    },
+    "devDependencies": {
+        "esm": "^3.2.25",
+        "ts-node": "^10.9.2"
+    }
+}
